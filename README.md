@@ -1,2 +1,4 @@
 # Simple-HTTP-Flask-API
-This Server Uses Server Side Events To Establish Connection. This Can be Used in Small Real Time Games That can Tolerate High Delay Like Games With tile Based Movement
+# Featurs
+ - Server Side Event Communication
+ - HLS (.m3u8) Video Streaming (IPTV)
